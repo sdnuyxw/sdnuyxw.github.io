@@ -313,11 +313,25 @@ ul.nostyle i {
 #features {
   padding: 100px 0;
 }
+
+#slider {
+  background: url('http://www.sdnu.edu.cn/__local/3/6A/77/649CF945406A2894E1913FF6AB9_5C57A358_4A036.jpg');
+  height: 400px;
+}
+
+#slider .copyr {
+  text-align: right;
+  float: right;
+  margin-top: 350px;
+  margin-right: 15px;
+}
+
 #features .media.service-box:first-child {
   margin-top: 80px;
 }
 #services {
   padding: 100px 0 75px;
+  background-color: #eeeeee;
 }
 .media.service-box {
   margin: 25px 0;
@@ -360,7 +374,6 @@ ul.nostyle i {
 }
 #portfolio {
   padding: 100px 0;
-  background: #f5f5f5;
 }
 #portfolio .portfolio-filter {
   list-style: none;
@@ -526,6 +539,7 @@ ul.nostyle i {
 }
 #about {
   padding: 100px 0;
+  background-color: #eeeeee;
 }
 #work-process {
   padding: 100px 0 50px;
@@ -694,6 +708,7 @@ ul.nostyle i {
 }
 #pricing {
   padding: 100px 0 70px;
+  background-color: #eeeeee;
 }
 #pricing ul.pricing {
   list-style: none;
@@ -709,7 +724,7 @@ ul.nostyle i {
   padding: 10px;
 }
 #pricing ul.pricing li.plan-header {
-  background: #eee;
+  background: #64686d;
   border-radius: 4px 4px 0 0;
   margin: -15px -15px 10px;
   padding: 15px 15px 30px;
