@@ -954,3 +954,7 @@ ul.nostyle i {
   box-shadow: none;
   -webkit-box-shadow: none;
 }
+
+red {
+  color: #ff0000;
+}
