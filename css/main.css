@@ -32,6 +32,10 @@ hr {
   border-top: 1px solid #e5e5e5;
   border-bottom: 1px solid #fff;
 }
+.xzqm {
+  padding: 130px 0;
+}
+
 .gradiant {
   background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
   background-image: -webkit-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
@@ -211,7 +215,7 @@ ul.nostyle i {
   }
 }
 #main-slider {
-  overflow: hidden;
+  
 }
 #main-slider .item {
   height: 558px;
